@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><emp:TuneDocument xmlns:emp="http://www.tecnomatix.com/empower/schema"><Header><ProcessModelsPrototypes><ProcessModelPrototype ProjectId="CA66E950-7BE8-4EBC-97B6-B7C373F1D6DE"><ProcessModelID><ExternalID>5be85001-a6bd-45b8-8b02-f1447cc0c9c0</ExternalID></ProcessModelID><ProcessModelType><Type>Conveyer</Type><Family>ToolPrototype</Family></ProcessModelType><ProcessModelData><Weight>0.000</Weight></ProcessModelData></ProcessModelPrototype></ProcessModelsPrototypes></Header></emp:TuneDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:efcfec761c22e701d83d175b9f464cddc2f1d95c28cf63f77e85dc339348fca5
+size 533

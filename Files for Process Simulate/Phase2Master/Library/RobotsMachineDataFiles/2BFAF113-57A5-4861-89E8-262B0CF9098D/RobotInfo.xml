@@ -1,16 +1,3 @@
-<root>
-  <RobotInfo Date="2/13/2020">
-    <Instance Name="R02" />
-    <Vendor Name="YASKAWA" />
-    <Controller Name="Yaskawa-Inform" Version="YRC1000" />
-    <RCS Version="" />
-    <ManipulatorType Name="" />
-  </RobotInfo>
-  <RobotInfo Date="2/12/2020">
-    <Instance Name="R03" />
-    <Vendor Name="YASKAWA" />
-    <Controller Name="Yaskawa-Inform" Version="YRC1000" />
-    <RCS Version="" />
-    <ManipulatorType Name="" />
-  </RobotInfo>
-</root>
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd792aabfb371cfc97ece8f3312daffdf8953648cfe6e3b8b4240795c9d546bc
+size 465

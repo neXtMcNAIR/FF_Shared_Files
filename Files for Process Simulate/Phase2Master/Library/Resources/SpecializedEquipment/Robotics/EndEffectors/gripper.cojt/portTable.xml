@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><portTable Version="53"><port externalId="FA42ED07-BEA7-46D6-9E7D-485AB2C34B05"><name>toOpen</name><datatype>bool</datatype><type>entry</type></port><port externalId="B76CB521-D9C0-42AC-A9BF-CB54411457FB"><name>toClose</name><datatype>bool</datatype><type>entry</type></port></portTable>
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad545dceafd0adaf96b83e0b9a98313533a0982f9e0161d252bc969d50f17b1
+size 325
